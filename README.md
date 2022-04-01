@@ -1,6 +1,6 @@
 # Armonia Improvement Proposals (AIPs)
 
-**Before you initiate a pull request**, please read the [AIP-1](aip-1) process document. Ideas should be thoroughly discussed first.
+**Before you initiate a pull request**, please read the [AIP-1](AIPs/aip-1) process document. Ideas should be thoroughly discussed first.
 
 This repository tracks ongoing improvements to Armonia Multichain Platform. It contains:
 
