@@ -1,3 +1,13 @@
+---
+AIP: 1
+title: AIP Purpose and Guidelines
+author: AMAX
+status: Living
+type: Meta
+created: 2022-04-1
+updated: 2022-04-1
+---
+
 ## What is an AIP?
 
 AIP stands for `Armonia Improvement Proposal`. An AIP is a design document providing information to the Armonia community, or describing a new feature for Armonia or its processes or environment. The AIP should provide a concise technical specification of the feature and a rationale for the feature. The AIP author is responsible for building consensus within the community and documenting dissenting opinions.
